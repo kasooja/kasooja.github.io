@@ -9,7 +9,7 @@ excerpt:  Just some links
 
 1. [SQS with Lambda](http://stackoverflow.com/questions/34678691/how-to-process-sqs-queue-with-lambda-function-not-via-scheduled-events)
 2. [Event sources in Lambda](http://docs.aws.amazon.com/lambda/latest/dg/invoking-lambda-function.html)
-3. [SQS + SNS + Lambda](http://serverfault.com/questions/744983/aws-sqs-sns-lambda)(http://www.slideshare.net/fabiandubois/tensorflow-in-production-with-aws-lambda)
+3. [SQS + SNS + Lambda](http://serverfault.com/questions/744983/aws-sqs-sns-lambda)
 4. [Scheduler with Lambda](https://docs.aws.amazon.com/lambda/latest/dg/with-scheduled-events.html)
 5. [Interesting Read on Queues in Lambda](https://medium.com/@PaulDJohnston/how-to-do-queues-in-aws-lambda-f66028cc7f13#.re3hs9dt8)
 6. [Serverless patterns](https://medium.com/@PaulDJohnston/we-need-more-serverless-patterns-17440704773a#.1x1pmk7o4)
