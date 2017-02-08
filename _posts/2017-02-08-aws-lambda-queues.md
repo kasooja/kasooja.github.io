@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AWS Lambda Resources"
+title:  "Queues with AWS Lambda"
 date:   2017-02-08 15:14:54
 categories: aws
-tags: lambda
+tags: lambda queue
 excerpt:  Just some links
 ---
 
