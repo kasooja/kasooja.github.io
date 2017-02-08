@@ -17,8 +17,8 @@ excerpt:  Just some links
 				   [4](http://stackoverflow.com/questions/33130115/use-aws-lambda-function-to-convert-s3-file-from-zip-to-gzip-using-boto3-python),
 				   [5](http://stackoverflow.com/questions/28291466/how-to-extract-files-from-a-zip-archive-in-s3)
 6. [Size limits](http://docs.aws.amazon.com/lambda/latest/dg/limits.html#limits-troubleshooting)
-7. [Efficient Unzipping](http://stackoverflow.com/questions/41340797/read-and-extract-huge-zip-file-from-aws-s3-with-aws-lambda),
-						(http://stackoverflow.com/questions/28659067/using-lambda-functions-to-unzip-archives-in-s3-is-really-sloooooow)
+7. On Efficiency in Unzipping with Lambda: [1](http://stackoverflow.com/questions/41340797/read-and-extract-huge-zip-file-from-aws-s3-with-aws-lambda),
+						[2](http://stackoverflow.com/questions/28659067/using-lambda-functions-to-unzip-archives-in-s3-is-really-sloooooow)
 8. [Programming Model](http://docs.aws.amazon.com/lambda/latest/dg/programming-model-v2.html)
 9. [Apex](https://github.com/apex/apex)
 10. [Deployment](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
