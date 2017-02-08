@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "CommonJS 规范"
+title:  "Example Post"
 categories: JavaScript
-tags:  CommonJS 模块化
+tags:  CommonJS
 ---
 
 * content
