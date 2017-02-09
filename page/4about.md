@@ -9,9 +9,14 @@ type: page
 * content
 {:toc}
 
+I am currently working as a Data Scientist at Propylon. 
+Until September 2016, I was a Research Assistant at the Insight Centre for Data Analytics at the National University of Ireland Galway. I am currently working with Paul Buitelaar in the Unit for Natural Language Processing.
+Before joining Insight in March 2013, I did a Masters in Artificial Intelligence from Universidad Politecnica de Madrid (UPM), Madrid, Spain. During my Masters, I also worked as a research assistant at the Ontology Engineering group at UPM, Madrid.
+
+My research interests lie at the confluence of Artificial Intelligence, Natural Language Processing, Distributional Semantics, Distributed Representations of Text, Text Classification, Machine Learning, Deep Learning, and Semantic Web.
 
 
 * GitHub：[kasooja](https://github.com/kasooja)
-* email: asooja@gmail.com
-* [Facebook](https://www.facebook.com/kartik.asooja)
-
+* Email: asooja@gmail.com
+* [Google Scholar](https://scholar.google.com/citations?user=y4UUZPMAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/kartik-asooja-9b554910)
