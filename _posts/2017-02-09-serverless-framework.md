@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AWS Lambda Debugging"
+title:  "Serverless Framework"
 date:   2017-02-09 15:14:54
-categories: aws
-tags: lambda debugging
+categories: serverless aws
+tags: serverless
 excerpt:  Just some links
 ---
 
