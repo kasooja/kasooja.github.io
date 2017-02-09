@@ -29,3 +29,7 @@ excerpt:  Just some links
 14. [Inter-account event triggers](http://stackoverflow.com/questions/38205341/how-to-create-a-lambda-function-which-triggered-by-kinesis-in-another-account)
 15. [Serverless App Example](https://github.com/nikhilaravi/serverless-graphql)
 16. [Using virtualenv in python on Lambda](http://willyg302.github.io/blog/posts/2015-03-29-python-on-aws-lambda/)
+17. [Building your first Serverless](http://justserverless.com/blog/your-first-serverless-application/)
+18. [Learning stages in Serverless](https://medium.com/@PaulDJohnston/the-many-stages-of-serverless-1979f2234a27)
+19. [Backstory](https://serverless.readme.io/docs/backstory)
+20. [Deployment guide](https://serverless.com/framework/docs/providers/aws/guide/deploying/)
