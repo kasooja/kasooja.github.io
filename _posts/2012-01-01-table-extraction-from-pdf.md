@@ -12,12 +12,15 @@ excerpt:  Just some links
 2. [Zanran: provides table extraction](http://zanran.com/): It claims using computer vision to identify graphs and tables from PDF documents.
 
    [Example Table Extraction from PDF using Zanran](https://s3.amazonaws.com/pdf_demo/ExampleTableExtraction1/ExampleTableExtraction1_images_charts.html)
+   
    [Download PDF Sample here](https://github.com/kasooja/kasooja.github.io/tree/master/resources/ExampleTableExtraction1.pdf)
 
 You can easily notice many inconsistencies in data extraction from pdf tables in the .xls files.
 
 3. [Tabula: provides table extraction and freely available](http://tabula.technology/) 
-   [Git repo](https://github.com/tabulapdf/tabula)  
+
+   [Git repo](https://github.com/tabulapdf/tabula) 
+    
    [See how it works here](https://source.opennews.org/en-US/articles/introducing-tabula/)
 
 4. [PDF Tables: provides table extraction](https://pdftables.com/): Uses an algorithm which examines the structure in the PDF, and it understands the spacing between items to identify the rows and columns. 
