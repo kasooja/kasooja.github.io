@@ -38,7 +38,7 @@ a) Libs/tools: [1](https://github.com/ashima/pdf-table-extract), [2](http://pdft
 
 b) Some Reads: [1](https://schoolofdata.org/2013/06/18/get-started-with-scraping-extracting-simple-tables-from-pdf-documents/), [2](http://craiget.com/blog/extracting-table-data-from-pdfs-with-ocr/), [3](https://scraperwiki.com/2013/07/pdftables-a-python-library-for-getting-tables-out-of-pdf-files/), [4](https://pdfliberation.wordpress.com/)
 
-c) OCR: some table extraction tools might require using OCR first. 
+c) OCR: some table extraction tools might require using OCR first.
     [Sample OCR tools on Ubuntu](https://help.ubuntu.com/community/OCR)
     [Cuneiform](https://launchpad.net/cuneiform-linux)
     [Abbyy](https://www.abbyy.com/en-gb/): Popular OCR company. 
