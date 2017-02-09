@@ -12,3 +12,4 @@ excerpt:  Just some links
 3. [Forum Discussion on how to debug Lambda](https://forums.developer.amazon.com/questions/5488/how-to-debug-lambda-functions.html)
 4. [Debugging Lambda with the help of echo function](https://alestic.com/2015/05/aws-lambda-echo/)
 5. [Monitoring Lambda](http://docs.aws.amazon.com/lambda/latest/dg/monitoring-functions.html)
+6. [Debugging Lambda locally](https://developer.amazon.com/blogs/post/Tx24Z2QZP5RRTG1/new-alexa-technical-tutorial-debugging-aws-lambda-code-locally)
