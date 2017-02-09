@@ -11,3 +11,4 @@ excerpt:  Just some links
 2. [Discussion on Local Debugging in Serverless](https://github.com/serverless/serverless/issues/281)
 3. [Forum Discussion on how to debug Lambda](https://forums.developer.amazon.com/questions/5488/how-to-debug-lambda-functions.html)
 4. [Debugging Lambda with the help of echo function](https://alestic.com/2015/05/aws-lambda-echo/)
+5. [Monitoring Lambda](http://docs.aws.amazon.com/lambda/latest/dg/monitoring-functions.html)
