@@ -49,3 +49,46 @@ excerpt:
             "arn:aws:events:$AccountRegion:$account:rule/lcd_data_downloader"
           ]
         }
+    
+    
+4. S3 event example:
+
+        
+        {
+        "Records": [
+        {
+        "eventVersion": "2.0", 
+        "eventTime": "2017-02-17T15:56:37.313Z", 
+        "requestParameters": {
+        "sourceIPAddress": "34.250.56.143"
+        }, 
+        "s3": {
+        "configurationId": "219d6a6f-eaec-4410-a007-a0d625e947de", 
+        "object": {
+        "eTag": "c18d561de3c1d8fd81fe445e7bb4bbe0-2", 
+        "sequencer": "0058A71D339D122B8B", 
+        "key": "data/timestamps/2017-02-17T15%3A56%3A09Z/all_article.zip", 
+        "size": 16500150
+        }, 
+        "bucket": {
+        "arn": "arn:aws:s3:::lcddata", 
+        "name": "lcddata", 
+        "ownerIdentity": {
+        "principalId": "KDJFJKDFJI"
+        }
+        }, 
+        "s3SchemaVersion": "1.0"
+        }, 
+        "responseElements": {
+        "x-amz-id-2": "iTHrvdAkRfT9f/qV49wVfCJrFcp3B+5QSWUhAcSPvu/3ek60bPw9gzfCd84VU7g/DhVHkQXjzbQ=", 
+        "x-amz-request-id": "dfasdfadsf"
+        }, 
+        "awsRegion": "eu-west-1", 
+        "eventName": "ObjectCreated:CompleteMultipartUpload", 
+        "userIdentity": {
+        "principalId": "AWS:df:l_lcd_data_downloader"
+        }, 
+        "eventSource": "aws:s3"
+        }
+        ]
+        }
