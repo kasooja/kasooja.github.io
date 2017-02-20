@@ -14,3 +14,15 @@ excerpt:
 3. [AWS Step Functions FAQs](https://aws.amazon.com/step-functions/faqs/)
 
 4. [Interesting forum discussion on executing Step Functions](https://forums.aws.amazon.com/message.jspa?messageID=762353)
+
+5. [Blog read](http://theithollow.com/2017/01/17/aws-step-functions/)
+
+6. [Step Functions Java API](https://aws.amazon.com/blogs/developer/stepfunctions-fluent-api/)
+
+7. [Step Functions Documentation](https://aws.amazon.com/documentation/step-functions/)
+
+8. [State Language command line validator](https://github.com/awslabs/statelint)
+
+9. [Step Functions API Reference](http://docs.aws.amazon.com/step-functions/latest/apireference/API_CreateActivity.html)
+
+10. [Step Functions Developer Guide](https://docs.aws.amazon.com/step-functions/latest/dg/index.html)
