@@ -26,3 +26,5 @@ excerpt:
 9. [Step Functions API Reference](http://docs.aws.amazon.com/step-functions/latest/apireference/API_CreateActivity.html)
 
 10. [Step Functions Developer Guide](https://docs.aws.amazon.com/step-functions/latest/dg/index.html)
+
+11. [Blog read on Stateless, Lambda, Step Functions](https://noise.getoto.net/tag/aws-lambda/)
