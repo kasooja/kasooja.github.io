@@ -30,3 +30,7 @@ excerpt:
 11. [Blog read on Stateless, Lambda, Step Functions](https://noise.getoto.net/tag/aws-lambda/)
 
 12. [1 year with Stateless](https://monoclechronicles.net/aws-lambda/)
+
+13. [Boto3 API for Step Functions](http://boto3.readthedocs.io/en/latest/reference/services/stepfunctions.html)
+
+14. [Calling Step Function through Lambda](http://stackoverflow.com/questions/42034563/how-to-call-an-aws-step-function-using-the-definitions-in-the-serverless-step-fu)
