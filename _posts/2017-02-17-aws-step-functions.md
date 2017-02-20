@@ -38,3 +38,5 @@ excerpt:
 15. [Step Function Developer Guide PDF](http://docs.aws.amazon.com/step-functions/latest/dg/step-functions-dg.pdf)
 
 16. [Interesting discussion on IAM Roles](https://forums.aws.amazon.com/thread.jspa?messageID=755311#755311)
+
+17. [Talk on Step Functions by Tim Bray](https://www.youtube.com/watch?v=75MRve4nv8s)
