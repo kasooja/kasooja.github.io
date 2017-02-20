@@ -28,3 +28,5 @@ excerpt:
 10. [Step Functions Developer Guide](https://docs.aws.amazon.com/step-functions/latest/dg/index.html)
 
 11. [Blog read on Stateless, Lambda, Step Functions](https://noise.getoto.net/tag/aws-lambda/)
+
+12. [1 year with Stateless](https://monoclechronicles.net/aws-lambda/)
