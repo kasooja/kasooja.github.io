@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sentiment Analysis"
+title:  "AWS Events"
 date:   2017-02-09 10:10:02
 categories: aws
 tags: events
