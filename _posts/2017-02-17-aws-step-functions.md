@@ -36,3 +36,5 @@ excerpt:
 14. [Calling Step Function through Lambda](http://stackoverflow.com/questions/42034563/how-to-call-an-aws-step-function-using-the-definitions-in-the-serverless-step-fu)
 
 15. [Step Function Developer Guide PDF](http://docs.aws.amazon.com/step-functions/latest/dg/step-functions-dg.pdf)
+
+16. [Interesting discussion on IAM Roles](https://forums.aws.amazon.com/thread.jspa?messageID=755311#755311)
