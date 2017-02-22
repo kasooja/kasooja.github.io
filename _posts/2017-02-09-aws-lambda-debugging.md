@@ -20,3 +20,5 @@ excerpt:  Just some links
 6. [Debugging Lambda locally](https://developer.amazon.com/blogs/post/Tx24Z2QZP5RRTG1/new-alexa-technical-tutorial-debugging-aws-lambda-code-locally)
 
 7. [Lambda Execution Environment](http://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html)
+
+8. [On Container Reuse in Lambda](https://aws.amazon.com/blogs/compute/container-reuse-in-lambda/)
