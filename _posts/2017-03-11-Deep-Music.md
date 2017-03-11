@@ -24,3 +24,7 @@ excerpt:
 8. [Exploring Music Data with R](http://pushpullfork.com/2016/08/exploring-musical-data-with-R/)
 
 9. [Report on Deep Learning for Music](https://cs224d.stanford.edu/reports/allenh.pdf)
+
+10. [WaveNet implementation at Github](https://github.com/ibab/tensorflow-wavenet)
+
+11. [DeepMind WaveNet Blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
