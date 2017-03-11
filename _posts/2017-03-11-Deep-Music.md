@@ -7,7 +7,7 @@ tags: deep-learning music
 excerpt:
 ---
 
-1. [GRUV Music Generation](https://github.com/MattVitelli/GRUV)
+1. [GRUV Music Generation on Github](https://github.com/MattVitelli/GRUV)
 
 2. [Siraj Vid: Generate Music in TensorFlow](https://www.youtube.com/watch?v=ZE7qWXX05T0)
 
@@ -28,3 +28,5 @@ excerpt:
 10. [WaveNet implementation at Github](https://github.com/ibab/tensorflow-wavenet)
 
 11. [DeepMind WaveNet Blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
+12. [JazzML: Computational Jazz Improvisation on Github](https://github.com/evancchow/jazzml)
