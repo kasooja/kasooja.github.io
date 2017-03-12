@@ -30,3 +30,7 @@ excerpt:
 11. [DeepMind WaveNet Blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 12. [JazzML: Computational Jazz Improvisation on Github](https://github.com/evancchow/jazzml)
+
+13.  [Analyzing 6 deep learning tools for music generation by Asimov](http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/)
+
+14. [GAN by KDnuggets](http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html)
