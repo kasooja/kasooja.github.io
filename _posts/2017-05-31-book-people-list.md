@@ -23,3 +23,4 @@ excerpt:
 
 8. [Book - I am a strange loop]()
 
+9. [Notes - Godel, Escher, Bach](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/lecture-notes/)
